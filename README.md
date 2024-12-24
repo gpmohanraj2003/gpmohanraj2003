@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Mr.Mohanraj
-- ❤️ I have Certified Penentration Testing Nerd(C-PTN)
+- ❤️ I have Certified Penentration Testing Nerd (C-PTN)
 - 😎 I'm Penetration Tester
 - 👀 I’m interested in Ethical hacking
 - 🌱 I’m currently learning Programming
 - 💞️ I’m Looking for Full-time job
-- 📫 How to reach me WhatsApp - 9150141278, Instagram - @gpmohanraj_2003
+- 📫 How to reach me WhatsApp - 9150141278
+- 🎶 Instagram - @gpmohanraj_2003
 - 👻 Linkedin - www.linkedin.com/in/mohanrajgp
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: currently I'm doing Internship 
