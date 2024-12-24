@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @gpmohanraj2003
-- 👀 I’m interested in Ethical hacking and Programming 
-- 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m looking to collaborate on IT
+- 👋 Hi, I’m Mr.Mohanraj
+- ❤️ I have Certified Penentration Testing Nerd(C-PTN)
+- 😎 I'm Penetration Tester
+- 👀 I’m interested in Ethical hacking
+- 🌱 I’m currently learning Programming
+- 💞️ I’m Looking for Full-time job
 - 📫 How to reach me WhatsApp - 9150141278, Instagram - @gpmohanraj_2003
+- 👻 Linkedin - www.linkedin.com/in/mohanrajgp
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: currently I'm doing Internship, Looking for Full-time job 
+- ⚡ Fun fact: currently I'm doing Internship 
 
 <!---
 gpmohanraj2003/gpmohanraj2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
